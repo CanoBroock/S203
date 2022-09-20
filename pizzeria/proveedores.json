@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "631e2d298c34f3c3d624ec9d"
+  },
+  "nombre": "Gafitas Bonitas S.L.",
+  "dirección": "Calle provença, 32",
+  "teléfono": 654114774,
+  "fax": 931554784,
+  "nif": "B32541224"
+}]

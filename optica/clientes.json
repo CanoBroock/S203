@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "631e2c978c34f3c3d624ec99"
+  },
+  "nombre": "Carlos",
+  "dirección": "Calle Valencia, 69",
+  "teléfono": 636152441,
+  "email": "programadorcito@gmail.com",
+  "fecha_registro": "01/01/2022",
+  "recomendado_por": "Carlos",
+  "atendido_por": "Pili"
+}]

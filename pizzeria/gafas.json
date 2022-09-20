@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "631e2da58c34f3c3d624eca1"
+  },
+  "marca": "Miopifas",
+  "graduación": "36º124º",
+  "tipo_montura": "pasta",
+  "color_montura": "rojo",
+  "color_vidrio": "transparente",
+  "precio": 25.25
+}]
